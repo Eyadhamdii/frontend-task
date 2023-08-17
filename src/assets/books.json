@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "CONDMNED",
+      "author": "Eyad",
+      "publicationYear": 2020,
+      "description": "ghost lady, ghost mansion, ghostly, Girl, girl alone, girl eyes, girl with mirror, gothic, gothic mansion, gothic vampire, green eyes, grey eyes, halloween, halloween scary, haunted mansion, horror eyes, horror scene, looking in the mirror, macabre, magic mirror, midnight, mirror, mysterious, night, phantom, red eyes, red lips, red lipstick, ring, rose, sad crying, sadness, scary, scary book, spooky, suspense, Thriller, Thriller & Suspense, vampire, woman, woman face, woman with red lips, wounds",
+      "thumbnailUrl":"assets/1.jpg"  
+    },
+    {
+      "id": 2,
+      "title": "BLESSED",
+      "author": "Eyad",
+      "publicationYear": 2021,
+      "description": "blue eyes, bright eyes, broken, broken doll, broken face, broken girl, closed eyes, concept, cracked doll, cracked face, cracked skin, dark, deep eyes, eyes, face, face girl face of woman, face in mirror, face of a woman, fantasy, female, female with blue eyes, firestorm, ginger, girl red hair, gothic, lightning, lightning bolt, lightning effect, lightning in sky, lightning storm, lightning strike, magic, magician, red hair, storm, stormy",
+      "thumbnailUrl": "assets/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "IMMENSITY",
+      "author": "Eyad",
+      "publicationYear": 2019,
+      "description": " black dress, castle, castle and girl, castle at night, castle woman, city, coat, coat dress, coat woman, concept, dark, dark fantasy night, dark hair, dark path, design, Drama, dystopia city, fantasy, fantasy castle, fantasy mountains, girl in black dress, gothic, gothicgirl, illustration, kings valley, landscape, misty mountains, mountain valley, mountains, mountains landscape, night, night city, path, red, ruins, urban, urban dystopia, urban fantasy, urban female, urban gil, urban girl, urban woman, urbex, Valley, woman, woman in black dress, woman in mountains, woman on path, young adult",
+      "thumbnailUrl": "assets/3.jpg"
+    }
+  ]

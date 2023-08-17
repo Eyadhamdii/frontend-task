@@ -1,0 +1,4 @@
+<div *ngFor="let book of books" (click)="selectBook(book)">
+    <img [src]="book.thumbnailUrl" alt="Book Thumbnail" />
+    <h3>{{ book.title }}</h3>
+  </div>
